@@ -9,7 +9,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 ## 🏆 Achievements  
-- **🏅 2x Hackathon Winner** – Trinity College Dublin Software engineering showcase 2022 and Guidewire Hackathon 2023. 
+- **🏅 2x Hackathon Winner** – [Trinity College Dublin Software Engineering Showcase 2022](https://www.tcd.ie/scss/news/2022/software-engineering-projects-showcase-and-industry-awards/) and Guidewire Hackathon 2023.  
 - **👨‍💻 Software Engineer Experience** – Interned at Guidewire Software.
 - **🎓 Trinity College Dublin Graduate** – BSc in Computer Science.  
 
