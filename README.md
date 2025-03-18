@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Terlo. 👋  
+🚀 Full Stack Developer | Trinity College Dublin Grad | Hackathon Winner  
 
-<!--
-**akintolt/akintolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
-Here are some ideas to get you started:
+## 🏆 Achievements  
+- **🏅 2x Hackathon Winner** – Trinity College Dublin Software engineering showcase 2022 and Guidewire Hackathon 2023. 
+- **👨‍💻 Software Engineer Experience** – Interned at Guidewire Software.
+- **🎓 Trinity College Dublin Graduate** – BSc in Computer Science.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akintolt)  
