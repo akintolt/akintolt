@@ -1,5 +1,5 @@
 # Hi, I'm Terlo. 👋  
-🚀 Full Stack Developer | Trinity College Dublin Grad | Hackathon Winner  
+🚀 Full Stack Developer | Trinity College Dublin Grad | 2x Hackathon Winner.
 
 ## 🔧 Technologies & Tools  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
